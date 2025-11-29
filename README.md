@@ -120,7 +120,7 @@ Modern e-commerce platform using Strapi as a headless CMS and Clerk authenticati
 - **Email:** baleegh243@gmail.com  
 - **Phone:** (+967) 773408338  
 - **GitHub:** https://github.com/engbaleegh  
-- **LinkedIn:** https://www.linkedin.com/in/%D8%A8%D9%84%D9%8A%D8%BA-%D8%A7%D9%84%D8%B3%D8%B1%D9%8A%D8%AD%D9%8A-b1bb1a212/
+- **LinkedIn:** https://www.linkedin.com/in/engbaleegh
 
 ---
 
